@@ -1,6 +1,5 @@
 # Image Processing of Plant Pathology - DSI7 Capstone Project
 
-Team members: Hanin Almarshad - Reem Alghamdi - Ahmad Fatani 
 
 ## Table of Contents
 
@@ -8,7 +7,6 @@ Team members: Hanin Almarshad - Reem Alghamdi - Ahmad Fatani 
 * [ Competition Specific Objectives](#competition-specific-objectives)
 * [Data Description](#data-description)
 * [Modeling](#modeling)
-* [Flask](#flask)
 
 
 ## Introduction 
@@ -46,3 +44,5 @@ Model | Kaggle score | run time
 ------------ | ------------- | -------------
 CNN model | 0.803 | 6 hours to run
 DenseNet model | 0.819 | 7.5 hours to run
+
+Team members: Hanin Almarshad - Reem Alghamdi - Ahmad Fatani 
